@@ -1,0 +1,21 @@
+# TO DO LIST (is important)
+
+1. Build Project 
+     - creating folder
+     - add files 
+     - connect files 
+
+2. Nav Bar 
+       - 2 links and a name
+    
+3. Porfolio item grid 
+      - images 
+      -  tiles 
+      -  descriptions 
+      -  animations (javascripts)
+
+4. About Pages
+     - images
+     - split column layout
+
+5 use unsplash website get any pictures for projects
